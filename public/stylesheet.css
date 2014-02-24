@@ -1,0 +1,49 @@
+
+#para{
+	color:orange;
+margin-top: -20%;
+margin-left: 60%;
+margin-right: 18%}
+body {
+ background: url("http://jardinsduciel.j.a.pic.centerblog.net/o/635984a6.jpg");}
+h1 {
+	color:#FFFFFF;
+font-size: 50px;
+font-family: Garamond;
+}
+h2{
+	color:#FFFFFF;
+	opacity: 1;
+}
+#composantesdumenu a{
+	color:#FFFF00;}
+#composantesdumenu { 
+	color:#FFFF66;
+ 
+}
+#menu{
+	background-color: #6600FF;
+	opacity:0.6;
+	margin-right:87%;
+	margin-top:-37%;
+	height: 850px;
+}
+#videoyoutube{
+	margin-top: -29%;
+	margin-left:15%;
+
+}
+footer {
+	margin-top: 15%;
+	background-color:#3333FF;
+	opacity:0.6;
+	height: 50px;
+	margin-top: 10%;
+	color:#FFFFFF;
+
+}
+a {
+	color: #009900
+;
+}
+
